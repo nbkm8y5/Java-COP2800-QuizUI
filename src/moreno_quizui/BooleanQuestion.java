@@ -2,7 +2,8 @@ package moreno_quizui;
 
 /**
  * Choice Question Class. Solves COP2800 Java Project # 2 COPYRIGHT (C) 2014
- * Rolando Moreno. All Rights Reserved.
+ * Rolando Moreno. All Rights Reserved. 
+ * I added this to test version control in GITHUB.
  *
  * @author Rolando Moreno COP 2800
  * @version 1.02 2014-04-20
